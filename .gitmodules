@@ -1,0 +1,6 @@
+[submodule "blog-cms-backend"]
+	path = blog-cms-backend
+	url = https://github.com/tbreitenfeldt/blog-cms-backend.git
+[submodule "blog-cms-frontend"]
+	path = blog-cms-frontend
+	url = https://github.com/tbreitenfeldt/blog-cms-frontend.git
