@@ -1,1 +1,3 @@
-/.metadata/
+# Eclipse STS
+.metadata/
+Servers/
